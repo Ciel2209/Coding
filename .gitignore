@@ -112,3 +112,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+test.py
+log.txt
+C/c.py
+B/b.py
+A/a.py
