@@ -117,3 +117,7 @@ log.txt
 C/c.py
 B/b.py
 A/a.py
+*.exe
+*.o
+*.workspace
+*.layout
